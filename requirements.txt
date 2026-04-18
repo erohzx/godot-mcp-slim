@@ -1,0 +1,4 @@
+﻿qdrant-client>=1.8.0
+requests>=2.31.0
+tqdm>=4.66.0
+mcp>=1.0.0
